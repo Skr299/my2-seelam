@@ -13,4 +13,11 @@ Heare are some activities listed below which I can do to cherish in my favourate
 
 3.**Hanging out at waterfalls**: Having shower bath under waterfalls will be very carzy and having spicy Barbique kind of food near this water fall will have really amazing.
 
----
+**Food I like to consume at Coorg spot**
+
+- **Japanese quail(Mostly Found in Hill Staions)**: This Specality of this bird is for its very higenic nature. This tastes really good and have high demand in coorg also.
+
+- **Bamboo Biryani**: The Biryani is cooked in bamboos which are freshly collected from the forest in this coorg forests. The aroma of the biryani taste really different and good comparing with other biryanis.
+
+- **Forest Pork food**: Coorg is quite famous for pork food because it is not served in all areas. By having this pork food will keep body temperature cool.
+
