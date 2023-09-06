@@ -19,3 +19,12 @@ If you're aiming to stay fit and healthy , enhance the day to day life plan and 
 | BaskectBall          | Excellent for cardiovascular health and team dynamics.      | 3-5 hours    |
 | Batminten          | Perfect for exploring nature and staying fit.         | 6-8 hours    |
 | Swimming        | Low-impact exercise that engages the whole body.      | 2-5 hours    |
+
+---
+## Pithy Quotes by Scientists
+
+> Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.
+> -  *Dr. A.P.J. Abdul Kalam*
+
+> I didn't fail 1,000 times. The light bulb was an invention with 1,000 steps.
+> - *Thomas Alva Edison*
