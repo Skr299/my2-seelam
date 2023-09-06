@@ -6,3 +6,16 @@ I am passonate to become a professional Software Engineer in my carrier. A part 
 As Mentioned regarding professionalism I would like to do coding rather other technicalites. Because it's really challenging while doing enhancemets based on client requirements.
 
 ![Sai Krishna reddy](SkrPic.jpg)
+
+---
+
+## Maintain Fitnees, Improve health, and Do team work
+
+If you're aiming to stay fit and healthy , enhance the day to day life plan and build good teamwork, Try adding these sports to your weekly routine:
+
+| Sport           | Reason to Recommend                                   | Weekly Hours |
+| --------------- | ----------------------------------------------------- | ------------ |
+| Volleyball      | Great for improving coordination and team dynamics.  | 6-7 hours    |
+| BaskectBall          | Excellent for cardiovascular health and team dynamics.      | 3-5 hours    |
+| Batminten          | Perfect for exploring nature and staying fit.         | 6-8 hours    |
+| Swimming        | Low-impact exercise that engages the whole body.      | 2-5 hours    |
