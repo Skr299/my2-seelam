@@ -21,3 +21,4 @@ Heare are some activities listed below which I can do to cherish in my favourate
 
 - **Forest Pork food**: Coorg is quite famous for pork food because it is not served in all areas. By having this pork food will keep body temperature cool.
 
+[Link to MyStatus](MyStats.md)
