@@ -28,3 +28,25 @@ If you're aiming to stay fit and healthy , enhance the day to day life plan and 
 
 > I didn't fail 1,000 times. The light bulb was an invention with 1,000 steps.
 > - *Thomas Alva Edison*
+
+---
+
+## Code Fencing with stack overflow refference
+
+> **Question on Stack Overflow**:
+[Exclude specific category from loop in WordPress?](https://stackoverflow.com/questions/26437228/exclude-specific-category-from-loop-in-wordpress)
+
+**Stack Overflow** : <https://stackoverflow.com/questions/26437228/exclude-specific-category-from-loop-in-wordpress>
+
+```php
+<?php query_posts('cat=-3'); ?>
+
+<?php if (have_posts()) : ?>
+<?php while (have_posts()) : the_post(); ?>
+  <h3></h3>	
+  <p><?php the_time('F jS, Y') ?></p>
+  <?php the_content(); ?>
+<?php endwhile; ?>
+
+```
+<https://css-tricks.com/snippets/wordpress/remove-specific-categories-from-the-loop/>
